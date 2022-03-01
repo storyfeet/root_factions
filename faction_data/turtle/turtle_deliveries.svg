@@ -53,9 +53,9 @@
        style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4000);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="297.08984"
          y="98.33748"
-         id="tspan1273"><tspan
+         id="tspan3196"><tspan
            style="font-weight:bold;font-family:'Noto Sans Sinhala UI';-inkscape-font-specification:'Noto Sans Sinhala UI Bold'"
-           id="tspan1271">Turtle Deliveries</tspan></tspan></text>
+           id="tspan3194">Turtle Deliveries</tspan></tspan></text>
     <rect
        style="fill:#ffeeaa;stroke:#d4aa00;stroke-width:1.92467;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect26921"
@@ -96,29 +96,29 @@
        transform="matrix(0.99319942,0,0,0.99319942,47.545498,140.59136)"><tspan
          x="20.558147"
          y="33.905933"
-         id="tspan1277"><tspan
+         id="tspan3200"><tspan
    style="font-weight:bold"
-   id="tspan1275">Draw Cards:</tspan>
+   id="tspan3198">Draw Cards:</tspan>
 </tspan><tspan
          x="20.558147"
          y="39.197596"
-         id="tspan1279">Draw 1 card + 1 for every type of clearing that has a Tip
+         id="tspan3202">Draw 1 card + 1 for every type of clearing that has a Tip
 </tspan><tspan
          x="20.558147"
          y="44.489261"
-         id="tspan1283"><tspan
+         id="tspan3206"><tspan
    style="font-weight:bold"
-   id="tspan1281">Discard Cards:</tspan> down to 5
+   id="tspan3204">Discard Cards:</tspan> down to 5
 </tspan><tspan
          x="20.558147"
          y="49.780925"
-         id="tspan1287"><tspan
+         id="tspan3210"><tspan
    style="font-weight:bold"
-   id="tspan1285">Orders waiting:</tspan> Move all orders down the order track.
+   id="tspan3208">Orders waiting:</tspan> Move all orders down the order track.
 </tspan><tspan
          x="20.558147"
          y="55.072589"
-         id="tspan1289">Lose 2vp for those which run out of track, and discard them</tspan></text>
+         id="tspan3212">Lose 2vp for those which run out of track, and discard them</tspan></text>
     <rect
        style="fill:#ffeeaa;stroke:#d4aa00;stroke-width:1.9864;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect31805"
@@ -142,29 +142,29 @@
        transform="matrix(0.99319942,0,0,0.99319942,47.734374,17.715839)"><tspan
          x="20.558147"
          y="33.905933"
-         id="tspan1293"><tspan
+         id="tspan3216"><tspan
    style="font-weight:bold"
-   id="tspan1291">Draw an Order (mandatory)</tspan>
+   id="tspan3214">Draw an Order (mandatory)</tspan>
 </tspan><tspan
          x="20.558147"
          y="39.197596"
-         id="tspan1295">Draw a card and add it to the first step of the order track
+         id="tspan3218">Draw a card and add it to the first step of the order track
 </tspan><tspan
          x="20.558147"
          y="44.489261"
-         id="tspan1299"><tspan
+         id="tspan3222"><tspan
            style="font-weight:bold"
-           id="tspan1297">Add an order
+           id="tspan3220">Add an order
 </tspan></tspan><tspan
          x="20.558147"
          y="49.780925"
-         id="tspan1301">You may add cards from your hand to the order track
+         id="tspan3224">You may add cards from your hand to the order track
 </tspan><tspan
          x="20.558147"
          y="55.072589"
-         id="tspan1305"><tspan
+         id="tspan3228"><tspan
    style="font-weight:bold"
-   id="tspan1303">Craft</tspan>: using Tips and Kitchens</tspan></text>
+   id="tspan3226">Craft</tspan>: using Tips and Kitchens</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:134.887;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -174,81 +174,81 @@
        transform="matrix(0.99319942,0,0,0.99319942,47.734374,48.212128)"><tspan
          x="20.558147"
          y="33.905933"
-         id="tspan1309"><tspan
+         id="tspan3232"><tspan
    style="font-weight:bold"
-   id="tspan1307">Recruit: </tspan>Any number of times, spend a card per warrior on the </tspan><tspan
+   id="tspan3230">Recruit: </tspan>Any number of times, spend a card per warrior on the </tspan><tspan
          x="20.558147"
          y="39.197596"
-         id="tspan1311">board to place a warrior in a matching clearing
+         id="tspan3234">board to place a warrior in a matching clearing
 </tspan><tspan
          x="20.558147"
          y="44.489261"
-         id="tspan1315"><tspan
+         id="tspan3238"><tspan
    style="font-weight:bold"
-   id="tspan1313">Move Turtles</tspan>: Move any Warriors 1 space, they may take pizza </tspan><tspan
+   id="tspan3236">Move Turtles</tspan>: Move any Warriors 1 space, they may take pizza </tspan><tspan
          x="20.558147"
          y="49.780925"
-         id="tspan1317">tokens with them
+         id="tspan3240">tokens with them
 </tspan><tspan
          x="20.558147"
          y="55.072589"
-         id="tspan1321"><tspan
+         id="tspan3244"><tspan
    style="font-weight:bold"
-   id="tspan1319">Initiate Battles:</tspan> One free battle and then 1 per matching card </tspan><tspan
+   id="tspan3242">Initiate Battles:</tspan> One free battle and then 1 per matching card </tspan><tspan
          x="20.558147"
          y="60.364253"
-         id="tspan1325">spent. <tspan
+         id="tspan3248">spent. <tspan
    style="font-style:italic"
-   id="tspan1323">After dice are rolled</tspan> may also spend matching cards to enable </tspan><tspan
+   id="tspan3246">After dice are rolled</tspan> may also spend matching cards to enable </tspan><tspan
          x="20.558147"
          y="65.655917"
-         id="tspan1327">dice hits.
+         id="tspan3250">dice hits.
 </tspan><tspan
          x="20.558147"
          y="70.947581"
-         id="tspan1331"><tspan
+         id="tspan3254"><tspan
    style="font-weight:bold"
-   id="tspan1329">Throw Pizzas: </tspan>Move Pizza tokens freely among clearings that have </tspan><tspan
+   id="tspan3252">Throw Pizzas: </tspan>Move Pizza tokens freely among clearings that have </tspan><tspan
          x="20.558147"
          y="76.239245"
-         id="tspan1333">a Turtle Warrior, or have a tip and no enemy Warriors.
+         id="tspan3256">a Turtle Warrior, or have a tip and no enemy Warriors.
 </tspan><tspan
          x="20.558147"
          y="81.530909"
-         id="tspan1337"><tspan
+         id="tspan3260"><tspan
    style="font-weight:bold"
-   id="tspan1335">Deliver Pizza: </tspan>In a matching clearing with no tips, flip a pizza into a </tspan><tspan
+   id="tspan3258">Deliver Pizza: </tspan>In a matching clearing with no tips, flip a pizza into a </tspan><tspan
          x="20.558147"
          y="86.822573"
-         id="tspan1339">tip. Discard a matching card from the order track, and score vp </tspan><tspan
+         id="tspan3262">tip. Discard a matching card from the order track, and score vp </tspan><tspan
          x="20.558147"
          y="92.114238"
-         id="tspan1341">based on its position on the order track + 1 vp, per tip in the same </tspan><tspan
+         id="tspan3264">based on its position on the order track + 1 vp, per tip in the same </tspan><tspan
          x="20.558147"
          y="97.405902"
-         id="tspan1343">kind of clearing
+         id="tspan3266">kind of clearing
 </tspan><tspan
          x="20.558147"
          y="102.69757"
-         id="tspan1347"><tspan
+         id="tspan3270"><tspan
    style="font-weight:bold"
-   id="tspan1345">Make Pizza: </tspan>Spend a card to place a matching Pizza in a Kitchen </tspan><tspan
+   id="tspan3268">Make Pizza: </tspan>Spend a card to place a matching Pizza in a Kitchen </tspan><tspan
          x="20.558147"
          y="107.98923"
-         id="tspan1349">Clearing.
+         id="tspan3272">Clearing.
 </tspan><tspan
          x="20.558147"
          y="113.28089"
-         id="tspan1353"><tspan
+         id="tspan3276"><tspan
    style="font-weight:bold"
-   id="tspan1351">Build a Kitchen: </tspan>Remove a Warrior and build a kitchen in that </tspan><tspan
+   id="tspan3274">Build a Kitchen: </tspan>Remove a Warrior and build a kitchen in that </tspan><tspan
          x="20.558147"
          y="118.57256"
-         id="tspan1355">clearing.
+         id="tspan3278">clearing.
 </tspan><tspan
          x="20.558147"
          y="123.86422"
-         id="tspan1357">
+         id="tspan3280">
 </tspan></text>
     <g
        id="g7024"
@@ -262,16 +262,16 @@
          transform="translate(195.89273,98.458946)"><tspan
            x="20.558147"
            y="33.905933"
-           id="tspan1361"><tspan
+           id="tspan3284"><tspan
    style="font-weight:bold"
-   id="tspan1359">Nimble :</tspan>
+   id="tspan3282">Nimble :</tspan>
 </tspan><tspan
            x="20.558147"
            y="39.197596"
-           id="tspan1363">Warriors can move without </tspan><tspan
+           id="tspan3286">Warriors can move without </tspan><tspan
            x="20.558147"
            y="44.489261"
-           id="tspan1365">ruling either clearing.</tspan></text>
+           id="tspan3288">ruling either clearing.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:57.9842;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -281,13 +281,13 @@
          transform="translate(196.04569,120.45221)"><tspan
            x="20.558147"
            y="33.905933"
-           id="tspan1369"><tspan
+           id="tspan3292"><tspan
    style="font-weight:bold"
-   id="tspan1367">Hard Shells :</tspan>
+   id="tspan3290">Hard Shells :</tspan>
 </tspan><tspan
            x="20.558147"
            y="39.197596"
-           id="tspan1371">Take two hits to remove.</tspan></text>
+           id="tspan3294">Take two hits to remove.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:57.9842;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -297,16 +297,16 @@
          transform="translate(196.04569,136.74351)"><tspan
            x="20.558147"
            y="33.905933"
-           id="tspan1375"><tspan
+           id="tspan3298"><tspan
    style="font-weight:bold"
-   id="tspan1373">Swimmers :</tspan>
+   id="tspan3296">Swimmers :</tspan>
 </tspan><tspan
            x="20.558147"
            y="39.197596"
-           id="tspan1377">Treat rivers and lakes as </tspan><tspan
+           id="tspan3300">Treat rivers and lakes as </tspan><tspan
            x="20.558147"
            y="44.489261"
-           id="tspan1379">Paths.</tspan></text>
+           id="tspan3302">Paths.</tspan></text>
     </g>
     <g
        id="g1304"
@@ -376,32 +376,6 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:43.5916;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="45.261948"
-       y="115.01165"
-       id="text11297"
-       transform="matrix(0.99319942,0,0,0.99319942,-28.495151,-9.522737)"><tspan
-         x="45.261948"
-         y="115.01165"
-         id="tspan1385"><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1381">All steps are </tspan><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1383">optional </tspan></tspan><tspan
-         x="45.261948"
-         y="120.30332"
-         id="tspan1391"><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1387">but must </tspan><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1389">be taken in </tspan></tspan><tspan
-         x="45.261948"
-         y="125.59498"
-         id="tspan1395"><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1393">order</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:31.0414;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="27.666367"
        y="187.63521"
@@ -409,11 +383,35 @@
        transform="matrix(0.99319942,0,0,0.99319942,9.7807207,4.6419876)"><tspan
          x="27.666367"
          y="187.63521"
-         id="tspan1397">All steps are
+         id="tspan3304">All steps are
 </tspan><tspan
          x="27.666367"
          y="192.92686"
-         id="tspan1399">mandatory</tspan></text>
+         id="tspan3306">mandatory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;white-space:pre;inline-size:31.0414;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.666367"
+       y="187.63521"
+       id="text11297-3-7-3"
+       transform="matrix(0.99319942,0,0,0.99319942,11.301046,-84.485326)"><tspan
+         x="27.666367"
+         y="187.63521"
+         id="tspan3308">All steps are
+</tspan><tspan
+         x="27.666367"
+         y="192.92686"
+         id="tspan3310">optional but<tspan
+   y="192.92686"
+   id="tspan3312"> </tspan></tspan><tspan
+         x="27.666367"
+         y="198.21852"
+         id="tspan3314">must be taken<tspan
+   y="198.21852"
+   id="tspan3316"> </tspan></tspan><tspan
+         x="27.666367"
+         y="203.51017"
+         id="tspan3318">in order</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5113px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.262784"
