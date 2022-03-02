@@ -1,0 +1,8 @@
+---
+layout: page
+---
+{%if page.alink%}<a href="{{page.alink}}">By {{page.author |default: page.alink}}</a>
+{%- else if page.author %}<em>By {{page.author}}</em>
+{%- endif %}
+
+{{content}}

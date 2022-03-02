@@ -1,5 +1,6 @@
 ---
 title: Turtle Delieveries
+author: Matthew Stoodley (Storyfeet)
 readiness: 2
 thumb: thumb.png
 dpath: /faction_data/turtle/
