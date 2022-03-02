@@ -3,6 +3,7 @@ title: Turtle Delieveries
 readiness: 2
 thumb: thumb.png
 dpath: /faction_data/turtle/
+short: Manage orders and get pizza to everyone on the forest
 ---
 
 The turtles are not bothered by the war around them, and only want to deliver pizza.  In birdsong, orders are placed on an order track.
