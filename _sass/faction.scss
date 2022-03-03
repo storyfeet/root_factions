@@ -1,9 +1,29 @@
+body {
+    background-image:url($baseurl + "/assets/cat_back.png");
+    background-repeat:repeat;
+}
+
 .thumb {
     max-width:100px;
     float:left;
     margin-right:20px;
     margin-bottom:10px;
 }
+
+.page-content{
+    //TODO make look like root square
+    background-color:#ffffff00;
+
+}
+
+
+.wrapper{
+    background-color:#f1e1bcff;
+    padding:20px;
+}
+
+
+
 
 .printnplay{
     cursor:pointer;
