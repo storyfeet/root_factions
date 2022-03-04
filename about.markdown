@@ -1,4 +1,5 @@
 ---
+title: about
 layout: home
 ---
 
@@ -10,4 +11,3 @@ I am working on the assumption that fans who have put their factions on BGG want
 
 Faction reviews and feedback will be accepted as long as feedback is constructive. 
 
-Anyhow : Here is the [list]( {{"all_factions.html" | relative_url}})

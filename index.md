@@ -1,8 +1,9 @@
 ---
-title: All Factions
 layout: page
 ---
-<p>Here is the list of all factions it is:</p>
+
+A curated list of Root Fan Factions, with help to print and try out the various new ways of playing the popular board game.
+
 
 {%for page in site.pages %}{%if page.categories contains "faction"%}
 {%if page.thumb%}<a href="{{page.url |relative_url}}"><img src="{{page.dpath |append:page.thumb | relative_url}}" class="thumb"></a>{%endif%}
