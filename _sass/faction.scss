@@ -11,15 +11,21 @@ body {
 }
 
 .page-content{
-    //TODO make look like root square
     background-color:#ffffff00;
 
 }
 
 
 .wrapper{
-    background-color:#f1e1bcff;
-    padding:20px;
+    padding:40px;
+    background-color:#ffeeaa;
+    border-image:url($baseurl + "/assets/page_border.svg") 10%;
+    border-image-width: 20px;
+    //border-image-slice: 10%;
+    border-style:solid;
+    border-width:20px;
+    -webkit-background-clip: padding;
+    background-clip: padding-box;
 }
 
 
