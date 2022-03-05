@@ -9,6 +9,12 @@ short: May your offspring outnumber the stars, and may this forest be home to al
 
 While they seem innocent enough, these bunnies love to multiply. One or two may not be a problem. But leave them alone, and they might just take over the forest.
 
+<img src="{{site.baseurl}}/faction_data/breeders/breeders.svg" class="printnplay">
+
+And the back:
+
+<img src="{{site.baseurl}}/faction_data/breeders/breeders_back.svg" class="printnplay">
+
 ## Contents:
 
 * 32 Warriors
@@ -22,7 +28,11 @@ Place 1 Warrior in the a chosen clearing of each type (fox, bunny mouse)
 
 ### Hunted 
 
-When Attacked any survivors in the same clearing flee 1 space along any connected paths (ignoring rule)
+When Attacked any survivors in the same clearing flee 1 space along any connected paths (ignoring who rules them)
+
+### Prey
+
+When attacking, you take the lower dice.
 
 ### Adorable
 
